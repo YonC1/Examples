@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h4>Cora Yon</h4>
+<h4>Exam 1</h4>
+
+<p><u>Question 2</u></p>
+
+<p>A.) Print three string expressions on one line</p>
+
+<p id="strings"></p>
+
+<script>
+let a1 = "This is the first sentence.";
+let a2 = "This is the second sentence.";
+let a3 = "This is the third sentence."; 
+
+document.getElementById("strings").innerHTML =
+a1 + " " + a2 + " " + a3; 
+</script>
+
+<p>B.) Concatenate the three expressions in the above line</p>
+
+<p id="concatstrings"></p>
+
+<script>
+let text1 = "This is the first sentence.";
+let text2 = "This is the second sentence.";
+let text3 = "This is the third sentence."; 
+let text4 = text1.concat(" ",text2," ", text3);
+document.getElementById("concatstrings").innerHTML = text4;
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h4>Cora Yon</h4>
+<h4>Exam 1</h4>
+
+<p><u>Question 1</u></p>
+
+
+<script type="text/javascript">
+var str=window.prompt(" Enter your name ");
+document.write(" Welcome " + str);
+</script>
+
+
+<p>B.) Date and time(hours and minutes only)</p>
+
+<p id="one"></p>
+
+<script>
+var myTimer = setInterval(myClock, 1000);
+function myClock() {
+  document.getElementById("one").innerHTML = new Date().toLocaleTimeString();
+}
+</script>
+
+
+<p>C.) Displays first name, middle initial, or last name</p>
+<p id="name"></p>
+
+<script>
+let x = "Cora Victoria Yon";
+document.getElementById("name").innerHTML = x;
+</script>
+
+
+
+<p>D.)Replaces middle name with nickname.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="two">Victoria</p>
+
+<script>
+function myFunction() {
+  let text = document.getElementById("two").innerHTML;
+  document.getElementById("two").innerHTML =
+  text.replace("Victoria","Tori");
+}
+</script>
+
+</body>
+</html>

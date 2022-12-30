@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h4>Cora Yon</h4>
+<h4>Exam 1</h4>
+
+<p><u>Question 5</u></p>
+
+<p>Course grade is calculated as follows: <br> Attendance = 10% <br> Homework Assignments = 10% <br> Quizzes = 10% <br> Midterm Exam = 25% <br> Final Exam = 25% <br> Group Project = 20%</p>
+
+<p>Enter your  grade for each category to calculate your final grade</p>
+
+<p>
+  <label>Attendance</label><br>
+  <input id="inputAttendance" type="number" placeholder="Grade" oninput="gradeCalculator(this.value)" onchange="gradeCalculator(this.value)">
+  <label>Homework Assignments</label><br>
+  <input id="inputHomework" type="number" placeholder="Grade" oninput="gradeCalculator(this.value)" onchange="gradeCalculator(this.value)">
+  <label>Quizzes</label><br>
+  <input id="inputQuizzes" type="number" placeholder="Grade" oninput="gradeCalculator(this.value)" onchange="gradeCalculator(this.value)">
+  <label>Midterm Exam</label><br>
+  <input id="inputMidterm" type="number" placeholder="Grade" oninput="gradeCalculator(this.value)" onchange="gradeCalculator(this.value)">
+  <label>Final Exam</label><br>
+  <input id="inputFinal" type="number" placeholder="Grade" oninput="gradeCalculator(this.value)" onchange="gradeCalculator(this.value)">
+  <label>Group Project</label><br>
+  <input id="inputGroup" type="number" placeholder="Grade" oninput="gradeCalculator(this.value)" onchange="gradeCalculator(this.value)">
+</p>
+
+<p>Final Grade: <span id="outputGrade"></span></p>
+
+<script>
+function gradeCalculator() {
+  var variable1 = document.getElementById('inputAttendance').value * .1;
+  var variable2 = document.getElementById('inputHomework').value * .1;
+  var variable3 = document.getElementById('inputQuizzes').value *.1;
+  var variable4 = document.getElementById('inputMidterm').value * .25;
+  var variable5 = document.getElementById('inputFinal').value * .25;
+  var variable6 = document.getElementById('inputGroup').value * .2;
+  var result1 = variable1 + variable2 + variable3 + variable4 + variable5 + variable6;
+document.getElementById("outputGrade").innerHTML = result1
+}
+</script>
+</body>
+</html>
