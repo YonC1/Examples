@@ -1,0 +1,174 @@
+11/26/2022 2:09:02 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 2:09:02 PM :: Unknown column 'M.Title' in 'field list'
+11/26/2022 2:09:22 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 2:09:22 PM :: Unknown column 'M.Title' in 'field list'
+11/26/2022 2:09:59 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 2:14:25 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 2:14:25 PM :: Unknown column 'M.Title' in 'field list'
+11/26/2022 2:18:13 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 2:18:13 PM :: Unknown column 'M.Title' in 'field list'
+11/26/2022 2:19:02 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 2:19:57 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 2:20:52 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 2:21:33 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 2:26:24 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 3:55:37 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 3:56:15 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 3:56:53 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 3:57:29 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 3:57:41 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 3:58:04 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 3:58:17 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 3:58:27 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 4:19:31 PM :: Parameter 'Id' not found in the collection.
+11/26/2022 7:14:49 PM :: Parameter 'Id' not found in the collection.
+11/26/2022 7:16:32 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 7:21:09 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 7:21:41 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 7:26:03 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 7:26:51 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 7:29:45 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 7:30:53 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 7:31:17 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 7:31:45 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 7:39:54 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 7:51:46 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 7:52:51 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 7:53:17 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 7:53:45 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 7:54:20 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 7:54:20 PM :: Table 'finalproject.jetuser' doesn't exist
+11/26/2022 7:55:24 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 7:55:49 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 7:59:39 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/26/2022 8:00:02 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 1:14:23 PM :: Parameter 'Id' not found in the collection.
+11/27/2022 1:20:59 PM :: Parameter 'Id' not found in the collection.
+11/27/2022 1:30:26 PM :: Parameter 'Id' not found in the collection.
+11/27/2022 1:39:49 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 1:44:30 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 1:49:05 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 1:55:43 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 1:59:35 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:03:28 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:03:34 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:04:16 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:04:25 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:10:51 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:11:00 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:11:54 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:14:01 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:14:06 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:14:11 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:14:28 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:14:42 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:14:42 PM :: Table 'finalproject.jetuser' doesn't exist
+11/27/2022 2:14:54 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:14:59 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:16:28 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:16:59 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:21:21 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 2:33:39 PM :: Value cannot be null. (Parameter 'ID can not be null.')
+11/27/2022 2:48:39 PM :: Value cannot be null. (Parameter 'ID can not be null.')
+11/27/2022 2:49:28 PM :: Value cannot be null. (Parameter 'ID can not be null.')
+11/27/2022 3:16:18 PM :: Value cannot be null. (Parameter 'ID can not be null.')
+11/27/2022 3:16:44 PM :: Value cannot be null. (Parameter 'ID can not be null.')
+11/27/2022 3:19:01 PM :: Value cannot be null. (Parameter 'ID can not be null.')
+11/27/2022 3:24:24 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 3:24:24 PM :: Unknown column 'UserId' in 'where clause'
+11/27/2022 3:24:40 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 3:24:40 PM :: Duplicate entry 'newUser1@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90' for key 'finaluser.PRIMARY'
+11/27/2022 3:29:11 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 4:11:46 PM :: Value cannot be null. (Parameter 'ID can not be null.')
+11/27/2022 4:23:54 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 4:25:12 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 4:25:12 PM :: Unknown column 'UserId' in 'where clause'
+11/27/2022 4:25:27 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/27/2022 4:25:43 PM :: Value cannot be null. (Parameter 'ID can not be null.')
+11/29/2022 10:48:56 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 10:48:56 AM :: Unknown column 'UserId' in 'where clause'
+11/29/2022 11:01:54 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:03:01 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:03:01 AM :: Parameter 'uCom' not found in the collection.
+11/29/2022 11:03:51 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:06:02 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:06:42 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:07:40 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:07:40 AM :: Parameter 'uCom' not found in the collection.
+11/29/2022 11:11:15 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:11:15 AM :: Parameter 'uCom' not found in the collection.
+11/29/2022 11:11:56 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:11:56 AM :: Parameter 'uCom' not found in the collection.
+11/29/2022 11:12:06 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:12:06 AM :: Parameter 'uCom' not found in the collection.
+11/29/2022 11:12:12 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:12:12 AM :: Parameter 'uCom' not found in the collection.
+11/29/2022 11:12:32 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:16:11 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:16:55 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:16:55 AM :: Unknown column 'UserId' in 'where clause'
+11/29/2022 11:20:37 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:20:37 AM :: Unknown column 'UserId' in 'where clause'
+11/29/2022 11:22:50 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:22:50 AM :: Unknown column 'UserId' in 'where clause'
+11/29/2022 11:28:04 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:28:04 AM :: Unknown column 'UserId' in 'where clause'
+11/29/2022 11:28:32 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:28:32 AM :: Unknown column 'UserId' in 'where clause'
+11/29/2022 11:47:31 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:47:31 AM :: Parameter 'uCom' not found in the collection.
+11/29/2022 11:49:23 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:49:23 AM :: Unknown column 'UserId' in 'where clause'
+11/29/2022 11:49:27 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:49:44 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:50:00 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:50:00 AM :: Duplicate entry 'newUser1@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90' for key 'finaluser.PRIMARY'
+11/29/2022 11:50:18 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:50:25 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:50:37 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:50:44 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:50:44 AM :: Table 'finalproject.jetuser' doesn't exist
+11/29/2022 11:50:54 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:51:01 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:51:14 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:51:50 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:51:50 AM :: Parameter 'uCom' not found in the collection.
+11/29/2022 11:51:57 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:51:57 AM :: Parameter 'uCom' not found in the collection.
+11/29/2022 11:52:04 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:52:49 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:55:00 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:55:00 AM :: Cannot delete or update a parent row: a foreign key constraint fails (`finalproject`.`movie`, CONSTRAINT `movie_ibfk_1` FOREIGN KEY (`OwnerID`) REFERENCES `finaluser` (`Id`))
+11/29/2022 11:56:39 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:56:39 AM :: Data too long for column 'Id' at row 1
+11/29/2022 11:59:47 AM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 11:59:47 AM :: Cannot delete or update a parent row: a foreign key constraint fails (`finalproject`.`movie`, CONSTRAINT `movie_ibfk_1` FOREIGN KEY (`OwnerID`) REFERENCES `finaluser` (`Id`))
+11/29/2022 12:05:17 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:05:17 PM :: Procedure or function 'spDeleteAUserByGuid' cannot be found in database ''. Verify that user 'root'@'localhost' has enough privileges to execute.
+11/29/2022 12:12:17 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:13:37 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:13:37 PM :: Unknown column 'UserId' in 'where clause'
+11/29/2022 12:13:50 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:13:50 PM :: Parameter 'uCom' not found in the collection.
+11/29/2022 12:24:08 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:24:08 PM :: Parameter 'uCom' not found in the collection.
+11/29/2022 12:25:18 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:25:18 PM :: Unknown column 'UserId' in 'where clause'
+11/29/2022 12:34:42 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:35:08 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:35:13 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:35:28 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:35:28 PM :: Duplicate entry 'newUser1@northeaststate.edu-19513fdc9da4fb72a4a05eb66917548d3c90' for key 'finaluser.PRIMARY'
+11/29/2022 12:35:33 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:35:37 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:35:42 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:35:47 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:35:47 PM :: Table 'finalproject.jetuser' doesn't exist
+11/29/2022 12:35:52 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:35:58 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:36:03 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:36:07 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:36:07 PM :: Parameter 'uCom' not found in the collection.
+11/29/2022 12:36:12 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.
+11/29/2022 12:36:12 PM :: Parameter 'uCom' not found in the collection.
+11/29/2022 12:36:19 PM :: Unable to cast object of type 'System.Int32' to type 'System.UInt64'.

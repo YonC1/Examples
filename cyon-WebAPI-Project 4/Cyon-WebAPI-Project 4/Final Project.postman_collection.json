@@ -1,0 +1,423 @@
+{
+	"info": {
+		"_postman_id": "5579f353-bb46-4c27-96a7-d77e7c450dc9",
+		"name": "Final Project",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19740024"
+	},
+	"item": [
+		{
+			"name": "User Controller",
+			"item": [
+				{
+					"name": "Post New User",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Email\":\"aknap@northeaststate.edu\",\r\n    \"UserPassword\":\"Password1\",\r\n    \"FirstName\":\"Anita\",\r\n    \"LastName\":\"Knap\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost/api/v1/User",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"api",
+								"v1",
+								"User"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update user status",
+					"request": {
+						"method": "PATCH",
+						"header": [],
+						"url": {
+							"raw": "https://localhost/api/v1/User/f2161cae-5fe4-49d6-b61a-73203d94bdf7/894cde31-5592-49dc-8a13-803e0007f935?status=true",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"api",
+								"v1",
+								"User",
+								"f2161cae-5fe4-49d6-b61a-73203d94bdf7",
+								"894cde31-5592-49dc-8a13-803e0007f935"
+							],
+							"query": [
+								{
+									"key": "status",
+									"value": "true"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Check user status",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost/api/v1/User/status/894cde31-5592-49dc-8a13-803e0007f935",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"api",
+								"v1",
+								"User",
+								"status",
+								"894cde31-5592-49dc-8a13-803e0007f935"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete user",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://localhost/api/v1/User/5500bdb6-d5f8-4258-91d3-1c2e7db4b317/22541e71-ceba-42c9-8908-eee3792543d1",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"api",
+								"v1",
+								"User",
+								"5500bdb6-d5f8-4258-91d3-1c2e7db4b317",
+								"22541e71-ceba-42c9-8908-eee3792543d1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Users Controller",
+			"item": [
+				{
+					"name": "Add array of new users",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "[\r\n    {\r\n    \"Email\":\"newUser1@northeaststate.edu\",\r\n    \"UserPassword\":\"Password1\",\r\n    \"FirstName\":\"User1\",\r\n    \"LastName\":\"Bear\"\r\n    },\r\n    {\r\n    \"Email\":\"newUser2@northeaststate.edu\",\r\n    \"UserPassword\":\"Password1\",\r\n    \"FirstName\":\"User2\",\r\n    \"LastName\":\"Bear\"\r\n    },\r\n    {\r\n    \"Email\":\"newUser1@northeaststate.edu\",\r\n    \"UserPassword\":\"Password1\",\r\n    \"FirstName\":\"User3\",\r\n    \"LastName\":\"Bear\"\r\n    },\r\n    {\r\n    \"Email\":\"newUser4@northeaststate.edu\",\r\n    \"UserPassword\":\"Password1\",\r\n    \"FirstName\":\"User4\",\r\n    \"LastName\":\"Bear\"\r\n    }\r\n]",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost/api/v1/Users/5500bdb6-d5f8-4258-91d3-1c2e7db4b317",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"api",
+								"v1",
+								"Users",
+								"5500bdb6-d5f8-4258-91d3-1c2e7db4b317"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Movie Controller",
+			"item": [
+				{
+					"name": "Add a movie",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Title\":\"Mars Attacks!\",\r\n    \"PostDate\":\"1996-12-13\",\r\n    \"Summary\":\"A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, come in peace\",\r\n    \"Link\":\"https://www.vudu.com/content/movies/details/Mars-Attacks/9039\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost/api/v1/Movie/894cde31-5592-49dc-8a13-803e0007f935",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"api",
+								"v1",
+								"Movie",
+								"894cde31-5592-49dc-8a13-803e0007f935"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get movie by ID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost/api/v1/Movie/2/894cde31-5592-49dc-8a13-803e0007f935",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"api",
+								"v1",
+								"Movie",
+								"2",
+								"894cde31-5592-49dc-8a13-803e0007f935"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Movie",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://localhost/api/v1/Movie/5/5500bdb6-d5f8-4258-91d3-1c2e7db4b317",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"api",
+								"v1",
+								"Movie",
+								"5",
+								"5500bdb6-d5f8-4258-91d3-1c2e7db4b317"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get movie and its ratings",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost/api/v1/Movie/1/Ratings/894cde31-5592-49dc-8a13-803e0007f935",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"api",
+								"v1",
+								"Movie",
+								"1",
+								"Ratings",
+								"894cde31-5592-49dc-8a13-803e0007f935"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Movies Controller",
+			"item": [
+				{
+					"name": "Get all movies",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost/api/v1/Movies/f2161cae-5fe4-49d6-b61a-73203d94bdf7",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"api",
+								"v1",
+								"Movies",
+								"f2161cae-5fe4-49d6-b61a-73203d94bdf7"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get all movies with average rating",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost/api/v1/Movies/Ratings/f2161cae-5fe4-49d6-b61a-73203d94bdf7",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"api",
+								"v1",
+								"Movies",
+								"Ratings",
+								"f2161cae-5fe4-49d6-b61a-73203d94bdf7"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Rating Controller",
+			"item": [
+				{
+					"name": "Delete a rating",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"MovieID\":4,\r\n    \"UserID\":\"22541e71-ceba-42c9-8908-eee3792543d1\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost/api/v1/Rating/f2161cae-5fe4-49d6-b61a-73203d94bdf7",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"api",
+								"v1",
+								"Rating",
+								"f2161cae-5fe4-49d6-b61a-73203d94bdf7"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update a rating",
+					"request": {
+						"method": "PATCH",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "2.21",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost/api/v1/Rating/3/f2161cae-5fe4-49d6-b61a-73203d94bdf7",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"api",
+								"v1",
+								"Rating",
+								"3",
+								"f2161cae-5fe4-49d6-b61a-73203d94bdf7"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Post new rating",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"MovieID\":3,\r\n    \"UserID\":\"22541e71-ceba-42c9-8908-eee3792543d1\",\r\n    \"UserRating\":2\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost/api/v1/Rating",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"api",
+								"v1",
+								"Rating"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Ratings Controller",
+			"item": [
+				{
+					"name": "Get ratings for movie by ID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost/api/v1/Ratings/2/f2161cae-5fe4-49d6-b61a-73203d94bdf7",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"api",
+								"v1",
+								"Ratings",
+								"2",
+								"f2161cae-5fe4-49d6-b61a-73203d94bdf7"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
